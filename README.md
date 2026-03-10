@@ -59,6 +59,7 @@ y solo tiene una autenticacion basica de Spring con cookies.
 
 - Configuración de base de datos
 MySQL configurar el application.properties según corresponda.
+Cualquier persona puede entrar al sistema y crear su propio usuario y logearse, no hay ninguna restricccion, pero solo pueden ser usuarios normales, no ADMIN
 
 Archivo src/main/resources/application.properties:
 
